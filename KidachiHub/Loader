@@ -1,0 +1,14 @@
+--PSX
+if game.PlaceId == 10321372166 then loadstring(game:HttpGet('https://raw.githubusercontent.com/D7eity/Kidachi/main/KidachiHub/PSX', true))() end --psx hc
+if game.PlaceId == 6284583030 then loadstring(game:HttpGet('https://raw.githubusercontent.com/D7eity/Kidachi/main/KidachiHub/PSX', true))() end -- psx normal
+if game.PlaceId == 7722306047 then loadstring(game:HttpGet('https://raw.githubusercontent.com/D7eity/Kidachi/main/KidachiHub/PSX', true))() end -- psx plaza
+--MM2
+if game.PlaceId == 142823291 then loadstring(game:HttpGet('https://raw.githubusercontent.com/D7eity/Kidachi/main/KidachiHub/MM2', true))() end -- MM2
+if game.PlaceId == 335132309 then loadstring(game:HttpGet('https://raw.githubusercontent.com/D7eity/Kidachi/main/KidachiHub/MM2', true))() end -- MM2 Pro
+if game.PlaceId == 636649648 then loadstring(game:HttpGet('https://raw.githubusercontent.com/D7eity/Kidachi/main/KidachiHub/MM2', true))() end -- MM2 Assasin
+--Bloxfruit
+if game.PlaceID == 2753915549 then loadstring(game:HttpGet('https://raw.githubusercontent.com/Kidichi/Kidachi/main/KidachiHub/Bloxfruit', true))() end -- Sea 1  BF
+if game.PlaceID == 4442272183 then loadstring(game:HttpGet('https://raw.githubusercontent.com/Kidichi/Kidachi/main/KidachiHub/Bloxfruit', true))() end -- Sea 2  BF
+if game.PlaceID == 7449423635 then loadstring(game:HttpGet('https://raw.githubusercontent.com/Kidichi/Kidachi/main/KidachiHub/Bloxfruit', true))() end -- Sea 3  BF
+
+ 
