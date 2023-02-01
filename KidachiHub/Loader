@@ -1,2 +1,2 @@
-setclipboard(discord.gg/txqwMtUgzu)
+setclipboard("discord.gg/txqwMtUgzu")
 game:GetService("Players").LocalPlayer:Kick("Join discord.gg/txqwMtUgzu for updated script, link copied to clipboard")
